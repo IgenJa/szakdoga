@@ -1,5 +1,7 @@
 # Beszélgetéselemző
 
+A részletes fejlesztési dokumentáció: [../DOKUMENTACIO.md](../DOKUMENTACIO.md).
+
 Egyszerű PHP webes felület beszélgetések megjelenítésére és elemzésére.
 Ez a szakdolgozat webes része. A felület magyar nyelvű, a forráskód azonosítói angolok.
 
